@@ -24,8 +24,10 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/ashutosh-kumar-028A372B2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh kumar" height="30" width="40" /></a>
-<a href="https://fb.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauravsinha239" height="30" width="40" /></a>  
-<a href="https://instagram.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravsinha239" height="30" width="40" /></a>
+
+<a href="https://fb.com/aasu3140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asutosh Kumar" height="30" width="40" /></a>
+
+<a href="https://instagram.com/aasu3140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asutosh Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
