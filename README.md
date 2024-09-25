@@ -18,7 +18,7 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **aasu3140@gmail.com**
-- portfolios [https://aasu80.github.io/portfolio/]
+- portfolios [https://aasu80.github.io/Portfolio/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
