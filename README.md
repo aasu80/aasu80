@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Java project**
 
-- 👨‍💻 All of my projects are available at [www.github.com/aasu80](www.github.com/aasu80)
+- 👨‍💻 All of my projects are available at [https://github.com/aasu80?tab=repositories]
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **aasu3140@gmail.com**
 - portfolios [https://aasu80.github.io/Portfolio/]
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravsinha239" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutosh-kumar-028A372B2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashutosh kumar" height="30" width="40" /></a>
 <a href="https://fb.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauravsinha239" height="30" width="40" /></a>  
 <a href="https://instagram.com/sauravsinha239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravsinha239" height="30" width="40" /></a>
 </p>
